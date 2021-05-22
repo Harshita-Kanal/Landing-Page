@@ -33,5 +33,9 @@
   }
    
   .navitem{
-    border-bottom:5px solid #ffffff;
+    border-bottom:5px solid #f1f0f0;
+  }
+
+  .navbar{
+      background-color: #f1f0f0;
   }

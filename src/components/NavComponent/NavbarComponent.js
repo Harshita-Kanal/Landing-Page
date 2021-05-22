@@ -12,7 +12,7 @@ const NavbarComponent = (props) => {
   
     return (
       <div>
-        <Navbar className = "navbar" color="light" light expand="md">
+        <Navbar className = "navbar" color="#f1f0f0" light expand="md">
        
         <div className="container">
         <NavbarBrand className = "brand" href="/">RAAHEE</NavbarBrand>
