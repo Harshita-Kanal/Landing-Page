@@ -1,0 +1,39 @@
+.f-heading{
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 48px;
+    line-height: 72px;
+    letter-spacing: 0.11em;
+    color: #000000;
+}
+
+.f-img{
+    width: 98%;
+}
+
+.f-head{
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 30px;
+  
+}
+.f-body{
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 22px;
+    line-height: 36px;
+    text-align: center;
+    color: #7D7B7B;
+}
+
+@media (max-width:629px){
+    .f-img{
+        display: none;
+    }
+    .f-heading{
+        font-size: 30px;
+    }
+}

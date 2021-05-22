@@ -1,0 +1,51 @@
+.hero{
+    height: 800px;
+}
+.text{
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 40px;
+    line-height: 60px;
+    letter-spacing: 0.12em;
+}
+.left{
+    text-align: left;
+}
+.bottom-text{
+font-family: Poppins;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 36px;
+letter-spacing: 0.12em;
+color: #000000;
+}
+
+.dis{
+    margin-right: 20px;
+    width: 150px;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 30px;
+    letter-spacing: 0.04em;
+}
+/* Portrait */
+@media (max-width:629px){
+    .item{
+        display: none;
+    }
+    .text{
+        font-size: 30px;
+    }
+    .bottom-text{
+        font-size: 20px;
+        line-height: 25px;
+    }
+    .dis{
+        width: 120px;
+        font-size: 15px;
+    }
+}

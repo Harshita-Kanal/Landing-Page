@@ -1,0 +1,55 @@
+.e-back{
+    background-color:rgb(170, 96, 255, 0.12) ;
+}
+.e-heading{
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 48px;
+    line-height: 72px;
+    letter-spacing: 0.11em;
+
+}
+
+.e-head{
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 30px;
+    line-height: 48px;
+    text-align: left;
+}
+
+.e-body{
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 30px;
+    text-align: left;
+}
+.e-cal{
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 30px;
+    color: #AA60FF;
+    text-align: left;
+}
+
+.slide{
+    margin: 20px;
+    border-radius: 34px;
+}
+
+.e-flex{
+    display: flex;
+    justify-content: space-between;
+}
+
+.e-img{
+    margin-right: 5px;
+}
+
+

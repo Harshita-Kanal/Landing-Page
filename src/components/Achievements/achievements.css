@@ -1,0 +1,55 @@
+.a-head{
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 48px;
+    line-height: 72px;
+    letter-spacing: 0.11em;
+}
+
+.a-subhead{
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 22px;
+    line-height: 36px;
+    text-align: center;
+    color: #7D7B7B;
+}
+
+.a-c-head{
+    font-style: normal;
+    font-weight: 500;
+    font-size: 48px;
+}
+
+.a-c-body{
+    font-style: normal;
+    font-weight: 475;
+    font-size: 20px;
+    line-height: 25px;
+    color: #A5ADBB;
+}
+
+.a-c-try{
+  background-color: white;
+  border-radius: 34px ;
+  padding: 40px;
+  margin: 20px;
+
+}
+.a-card{
+    background: linear-gradient(136.7deg, rgba(141, 150, 254, 0.5) 0%, rgba(170, 96, 255, 0.5) 45.33%);
+    box-shadow: -20px 20px 40px rgba(222, 222, 222, 0.2), 20px -20px 40px rgba(222, 222, 222, 0.2), -20px -20px 40px rgba(255, 255, 255, 0.9), 20px 20px 50px rgba(222, 222, 222, 0.9), inset 1px 1px 2px rgba(255, 255, 255, 0.3), inset -1px -1px 2px rgba(222, 222, 222, 0.5);
+    border-radius: 34px;
+    height: 300px;  
+    width: 300px;
+    margin: 5px;
+}
+
+
+@media (max-width:629px){
+    .a-head{
+        font-size: 30px;
+    }
+}
